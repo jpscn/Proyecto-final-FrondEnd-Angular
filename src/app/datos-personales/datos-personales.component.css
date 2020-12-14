@@ -1,0 +1,8 @@
+/*Contenedor de los datos personales con color de fondo, tamanio de la caja con borde*/
+.datos{
+    background-color: lightgreen;
+    width: 1300px;
+    border: 2px solid black;
+    text-align: start ;
+    
+}

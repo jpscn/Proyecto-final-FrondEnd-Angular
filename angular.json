@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ProyectoFrondEnd"
+  "defaultProject": "ProyectoFrondEnd",
+  "cli": {
+    "analytics": "f9725a4d-445a-445c-8bc5-548a3d9e9b9f"
+  }
 }
